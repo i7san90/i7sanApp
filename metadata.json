@@ -1,0 +1,6 @@
+{
+  "name": "إحسان",
+  "description": "تطبيق ذكي وبكود QR مخصص لمتابعة وتدقيق لقاحات الأطفال بالاعتماد على جدول اللقاحات لضمان سلامتهم وصحتهم ومكافحة تسرب اللقاحات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

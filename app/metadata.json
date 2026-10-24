@@ -1,0 +1,6 @@
+{
+  "name": "Iraqi Vaccine Tracker",
+  "description": "A comprehensive app to track Iraqi national vaccination schedule for children and family members with Firebase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

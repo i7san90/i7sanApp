@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Instagram camera glyph on its brand color background -->
+    <path
+        android:fillColor="#E1306C"
+        android:pathData="M12,24c6.627,0 12,-5.373 12,-12S18.627,0 12,0 0,5.373 0,12s5.373,12 12,12z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,7.5c-2.485,0 -4.5,2.015 -4.5,4.5s2.015,4.5 4.5,4.5s4.5,-2.015 4.5,-4.5S14.485,7.5 12,7.5zm0,7.4c-1.602,0 -2.9,-1.298 -2.9,-2.9c0,-1.602 1.298,-2.9 2.9,-2.9c1.602,0 2.9,1.298 2.9,2.9C14.9,13.602 13.602,14.9 12,14.9z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16.5,5h-9C5.57,5 4,6.57 4,8.5v9c0,1.93 1.57,3.5 3.5,3.5h9c1.93,0 3.5,-1.57 3.5,-3.5v-9C20,6.57 18.43,5 16.5,5zm1.9,12.5c0,1.048 -0.852,1.9 -1.9,1.9h-9c-1.048,0 -1.9,-0.852 -1.9,-1.9v-9c0,-1.048 0.852,-1.9 1.9,-1.9h9c1.048,0 1.9,0.852 1.9,1.9v9z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M16.5,8c0.414,0 0.75,-0.336 0.75,-0.75S16.914,6.5 16.5,6.5S15.75,6.836 15.75,7.25S16.086,8 16.5,8z"/>
+</vector>
